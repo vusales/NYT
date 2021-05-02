@@ -1,0 +1,20 @@
+.afterDiv{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+.is-invalid {
+    border: 1px solid red !important;
+}
+.newsTitle {
+    background-color: black;
+    padding:5px;
+}
+.newsTitle> a {
+    color: white ;
+}
+.abstract{
+    vertical-align: middle;
+    padding: 5px;
+    color: black;
+}
